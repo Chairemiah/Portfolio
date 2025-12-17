@@ -22,6 +22,11 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
+__JavaScript__
+  * 
+  *
+  * 
+
 __Manual testing__
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
@@ -47,6 +52,10 @@ __SQL databases__
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
+__WebdriverIO__
+  *
+  *
+  *
 
 ## Tools
 
@@ -114,4 +123,7 @@ A 300 hour comprehensive course in software quality assurance, covering skills i
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
 ## Books I have read
+* How to win friends and influence people
+* 
+* 
 
