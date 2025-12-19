@@ -42,10 +42,7 @@ __WebdriverIO__
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__
 
 __Jira__
   * know how to create bug reports
