@@ -75,6 +75,4 @@ A 300 hour comprehensive course in software quality assurance, covering skills i
 * How to win friends and influence people
 * Man's Search for Meaning
 * Meditations
-* Man and His Symbols
-* The Conspiracy Against the Human Race
 
