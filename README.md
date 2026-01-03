@@ -1,6 +1,5 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
