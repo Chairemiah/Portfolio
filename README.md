@@ -41,8 +41,6 @@ __WebdriverIO__
 
 ## Tools
 
-__
-
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
