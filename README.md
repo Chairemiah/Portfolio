@@ -71,8 +71,7 @@ A 300 hour comprehensive course in software quality assurance, covering skills i
 ### Capstone Project (for completion of MTech's Software QA Course)
 
 * Creating an automated test for [four primary components](https://docs.google.com/document/d/1yVOPAO_SySuWgkgnck69nmbzRx2bAE3BP10Yv1hMktw/edit?usp=sharing) from the [GCB Computers Website](https://gcbcomputers.com/).
-
-* 
+ 
 
 ## Books I have read
 * How to win friends and influence people
